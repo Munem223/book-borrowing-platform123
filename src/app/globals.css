@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import "animate.css";
+
+html { scroll-behavior: smooth; }
+body { background: #f8fafc; color: #0f172a; }
+.card-glass { background: rgba(255,255,255,.82); backdrop-filter: blur(14px); }

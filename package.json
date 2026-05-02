@@ -1,0 +1,26 @@
+{
+  "name": "book-borrowing-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@better-auth/mongo-adapter": "latest",
+    "animate.css": "latest",
+    "better-auth": "latest",
+    "daisyui": "latest",
+    "mongodb": "latest",
+    "next": "15.3.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-hot-toast": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
