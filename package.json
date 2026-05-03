@@ -9,14 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@better-auth/infra": "^0.2.5",
     "@better-auth/mongo-adapter": "latest",
     "animate.css": "latest",
-    "better-auth": "latest",
+    "better-auth": "^1.6.9",
     "daisyui": "latest",
     "mongodb": "latest",
-    "next": "15.3.4",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
     "react-hot-toast": "latest"
   },
   "devDependencies": {
